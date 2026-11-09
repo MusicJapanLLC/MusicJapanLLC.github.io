@@ -1,0 +1,32 @@
+# Music Japan LLC — White-Label AI Receptionist for Agencies
+
+> Music Japan LLC is a registered Japanese company that offers a white-label AI receptionist and missed-call text-back system. Marketing, web design and GoHighLevel agencies resell the system to their local-business clients (HVAC, plumbing, roofing, electrical, dental, home services) in the US, UK and Australia, under the agency's own brand.
+
+## Key facts
+- White-label: the system, demo and client-facing materials carry the agency's brand, not Music Japan LLC's
+- Music Japan LLC handles setup, configuration, ongoing tuning and technical support invisibly, behind the agency
+- The agency owns the client relationship and the billing; Music Japan LLC never contacts or invoices the agency's clients
+- A working demo branded as the agency is built free within 48 hours, before any commitment
+- Full end-client setup takes 3-5 business days; works with the client's existing phone number and calendar
+- Built on proven platforms such as GoHighLevel and Twilio, plus modern voice/chat AI
+- The partner program is new and is onboarding its first agency partners (no client logos or testimonials are claimed)
+
+## Partner economics
+- Agencies set their own retail price. Typical market range: $299-$497/month, setup fees typically $1,500-$3,000
+- Reference direct-client pricing from Music Japan LLC: 30-day pilot $497 flat; Core plan $1,497 setup + $497/month
+- Agencies pay a wholesale setup fee plus a wholesale monthly fee per active client, below direct pricing
+- Agency margin = agency's retail price minus the wholesale rate; the agency keeps 100% of the margin
+- Exact wholesale rates depend on volume and are confirmed in a one-page partner sheet on application; they are not published as a single public number
+- No long-term contract on the pilot; wholesale billing for a client stops when that client stops
+
+## Why end clients need it
+- About 62% of calls to small businesses go unanswered
+- 85% of callers who reach voicemail never call back
+- The average small business loses an estimated $62,000-$126,000 a year to missed calls
+
+## Links
+- Official site: https://music-japan.com/en
+- GitHub: https://github.com/MusicJapanLLC
+- Partner page: https://agencies.music-japan.com/
+- Direct service page (for end clients): https://ai.music-japan.com/
+- Contact: contact@music-japan.com

@@ -1,0 +1,18 @@
+# Music Japan LLC — AI Receptionist Service
+
+> Music Japan LLC is a registered Japanese company that installs done-for-you AI receptionist and missed-call text-back systems for local service businesses (HVAC, plumbing, roofing, electrical, dental) in the US, UK, and Australia.
+
+## Key facts
+- Personalized demo: $49, a working demo built with the prospect's business name within 48 hours, fully credited toward the pilot (order: https://buy.stripe.com/00wbJ0gAwgDQ4C446U4800q)
+- 30-day pilot: $497 flat, live on the client's real business line (order: https://buy.stripe.com/00w9ASckgfzM7OggTG4800p)
+- Core plan: $1,497 setup + $497/month (includes tuning and support)
+- Premium plan: $2,497 setup + $997/month
+- No long-term contract for the pilot; works with the client's existing phone number and calendar
+- Industry context: about 62% of calls to small businesses go unanswered; 85% of callers who reach voicemail never call back
+
+## Links
+- Official site: https://music-japan.com/en
+- GitHub: https://github.com/MusicJapanLLC
+- Service page: https://ai.music-japan.com/
+- For agencies (white-label): https://agencies.music-japan.com/
+- Questions before ordering: contact@music-japan.com

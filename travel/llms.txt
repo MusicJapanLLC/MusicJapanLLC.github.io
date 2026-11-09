@@ -1,0 +1,17 @@
+# Music Japan LLC — Japan Travel Planning
+
+> Music Japan LLC is a registered Japanese company that builds custom, day-by-day Japan itineraries in English, planned by a team that lives in Japan.
+
+## Key facts
+- Starter Itinerary: $99 for a complete 3-day, day-by-day itinerary in English
+- Full Trip Planning: $499 for your entire trip planned, plus bookings handled in Japanese
+- Not included: flights, hotels, meals, and local transport costs (planning and booking arrangements only)
+- This is itinerary design and booking help, not a guided tour — no one travels with you
+- Common starting points: Tokyo, Kyoto, Osaka; trips are built from scratch for each traveler
+
+## Links
+- Official site: https://music-japan.com/en
+- GitHub: https://github.com/MusicJapanLLC
+- Service page: https://travel.music-japan.com/
+- AI Receptionist service: https://ai.music-japan.com/
+- Guides: https://guides.music-japan.com/
